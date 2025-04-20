@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A408E691-5504-496E-8ADE-6E982B2D1A5C}|ATM Machine\\ATM Machine.csproj|c:\\users\\geeks\\documents\\atm machine\\atm machine\\atm machine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A408E691-5504-496E-8ADE-6E982B2D1A5C}|ATM Machine\\ATM Machine.csproj|solutionrelative:atm machine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A408E691-5504-496E-8ADE-6E982B2D1A5C}|ATM Machine\\ATM Machine.csproj|C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\atm machine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A408E691-5504-496E-8ADE-6E982B2D1A5C}|ATM Machine\\ATM Machine.csproj|solutionrelative:atm machine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A408E691-5504-496E-8ADE-6E982B2D1A5C}|ATM Machine\\ATM Machine.csproj|C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\atm machine\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A408E691-5504-496E-8ADE-6E982B2D1A5C}|ATM Machine\\ATM Machine.csproj|solutionrelative:atm machine\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A408E691-5504-496E-8ADE-6E982B2D1A5C}|ATM Machine\\ATM Machine.csproj|C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\atm machine\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A408E691-5504-496E-8ADE-6E982B2D1A5C}|ATM Machine\\ATM Machine.csproj|solutionrelative:atm machine\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A408E691-5504-496E-8ADE-6E982B2D1A5C}|ATM Machine\\ATM Machine.csproj|C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\atm machine\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A408E691-5504-496E-8ADE-6E982B2D1A5C}|ATM Machine\\ATM Machine.csproj|solutionrelative:atm machine\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A408E691-5504-496E-8ADE-6E982B2D1A5C}|ATM Machine\\ATM Machine.csproj|C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\atm machine\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A408E691-5504-496E-8ADE-6E982B2D1A5C}|ATM Machine\\ATM Machine.csproj|solutionrelative:atm machine\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAKkSAAAAAAAAAAD4v7cSAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-28T06:37:57.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\ATM Machine\\Account.cs",
+              "RelativeDocumentMoniker": "ATM Machine\\Account.cs",
+              "ToolTip": "C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\ATM Machine\\Account.cs",
+              "RelativeToolTip": "ATM Machine\\Account.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAwwJIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:14:58.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\ATM Machine\\Customer.cs",
+              "RelativeDocumentMoniker": "ATM Machine\\Customer.cs",
+              "ToolTip": "C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\ATM Machine\\Customer.cs",
+              "RelativeToolTip": "ATM Machine\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:08:52.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\ATM Machine\\Form1.cs",
+              "RelativeDocumentMoniker": "ATM Machine\\Form1.cs",
+              "ToolTip": "C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\ATM Machine\\Form1.cs [Design]",
+              "RelativeToolTip": "ATM Machine\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T03:29:21.748Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\ATM Machine\\Form1.cs",
+              "RelativeDocumentMoniker": "ATM Machine\\Form1.cs",
+              "ToolTip": "C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\ATM Machine\\Form1.cs",
+              "RelativeToolTip": "ATM Machine\\Form1.cs",
+              "ViewState": "AQIAACUDAAAAAAAAAAArwDIDAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:50:38.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\ATM Machine\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ATM Machine\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\ATM Machine\\Form1.Designer.cs",
+              "RelativeToolTip": "ATM Machine\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T05:07:41.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\ATM Machine\\Transaction.cs",
+              "RelativeDocumentMoniker": "ATM Machine\\Transaction.cs",
+              "ToolTip": "C:\\Users\\GEEKS\\Documents\\ATM Machine\\ATM Machine\\ATM Machine\\Transaction.cs",
+              "RelativeToolTip": "ATM Machine\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:33:13.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
